@@ -16,9 +16,9 @@
 | **Проект** | **NeuroStudy AI** (Образовательная платформа 24/7) |
 | **Направление** | Full-Stack Development, Applied AI / LLM Systems, EdTech Architecture |
 | **Специализация** | Разработка серверных систем, интеграция мультимодальных нейросетей, геймификация обучения |
-| **Telegram разработчика** | `@your_telegram` *(укажите ваш логин)* |
-| **GitHub** | `github.com/your-username` *(укажите ваш GitHub)* |
-| **Портфолио / Email** | `your.email@example.com` |
+| **Telegram разработчика** | `@inputhelper` 
+| **GitHub** | `[github.com/your-username](https://github.com/lowbust)` 
+| **Портфолио / Email** | `временно нет` |
 
 ---
 
@@ -84,9 +84,9 @@
 | **Project** | **NeuroStudy AI** (24/7 AI-Powered EdTech Ecosystem) |
 | **Domain** | Full-Stack Engineering, Applied AI / LLM Orchestration, EdTech |
 | **Core Expertise** | Serverless Architecture, Multimodal AI Systems, Educational Gamification |
-| **Telegram** | `@your_telegram` *(insert your handle)* |
-| **GitHub** | `github.com/your-username` *(insert your GitHub profile)* |
-| **Email / Portfolio** | `your.email@example.com` |
+| **Telegram** | `@inputhelper` *(insert your handle)* |
+| **GitHub** | `https://github.com/lowbust` *(insert your GitHub profile)* |
+| **Email / Portfolio** | `no` |
 
 ---
 
