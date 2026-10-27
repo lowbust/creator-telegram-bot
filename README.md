@@ -84,8 +84,8 @@
 | **Project** | **NeuroStudy AI** (24/7 AI-Powered EdTech Ecosystem) |
 | **Domain** | Full-Stack Engineering, Applied AI / LLM Orchestration, EdTech |
 | **Core Expertise** | Serverless Architecture, Multimodal AI Systems, Educational Gamification |
-| **Telegram** | `@inputhelper` *(insert your handle)* |
-| **GitHub** | `https://github.com/lowbust` *(insert your GitHub profile)* |
+| **Telegram** | `@inputhelper` 
+| **GitHub** | `https://github.com/lowbust` 
 | **Email / Portfolio** | `no` |
 
 ---
