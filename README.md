@@ -17,7 +17,7 @@
 | **Направление** | Full-Stack Development, Applied AI / LLM Systems, EdTech Architecture |
 | **Специализация** | Разработка серверных систем, интеграция мультимодальных нейросетей, геймификация обучения |
 | **Telegram разработчика** | `@inputhelper` 
-| **GitHub** | `[github.com/your-username](https://github.com/lowbust)` 
+| **GitHub** | `https://github.com/lowbust` 
 | **Портфолио / Email** | `временно нет` |
 
 ---
